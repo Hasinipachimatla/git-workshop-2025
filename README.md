@@ -4,7 +4,7 @@
 <ul>
   <li> Name: p.hasini
   <li> Roll Number: 160124771084
-  <li> Branch: aids-2
+  <li> Branch: AIDS-2
 </ul>
 </details>
 <details>
