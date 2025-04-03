@@ -2,7 +2,7 @@
 <details open>
 <summary><h3>1. Add your details: </h3></summary>
 <ul>
-  <li> Name: p.hasini
+  <li> Name: P.Hasini
   <li> Roll Number: 160124771084
   <li> Branch: AIDS-2
 </ul>
